@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  background-color: #002345;
+  color: white;
+}
+
+.container {
+  inline-size: 40vw;
+  block-size: 130px;
+  margin: auto;
+  margin-block-start: 30vh;
+}
+
+legend {
+  font-size: 20px;
+  font-weight: 800;
+
+}
+
+.hour {
+  font-size: 84px;
+  font-weight: 800;
+  text-align: center;
+}
